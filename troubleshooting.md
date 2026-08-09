@@ -26,16 +26,16 @@ Try the following steps in order. After each step, check whether the application
 1. Save any open work.
 2. Select **Start** > **Power** > **Restart**.
 3. After the computer restarts, try to launch the application again.
-### Run the application as an administrator
- 
-1. Right-click the application icon.
-2. Select **Run as administrator**.
-3. If prompted by User Account Control, select **Yes**.
 ### Verify system requirements
  
 1. Open the application's documentation or product page.
 2. Compare your system's OS version, RAM, and storage against the listed minimum requirements.
 3. If your system doesn't meet the requirements, upgrade the applicable component before continuing.
+### Run the application as an administrator
+ 
+1. Right-click the application icon.
+2. Select **Run as administrator**.
+3. If prompted by User Account Control, select **Yes**.
 ### Reinstall the application
  
 1. Open **Settings** > **Apps** > **Installed apps**.
